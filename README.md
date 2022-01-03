@@ -1,1 +1,1 @@
-# Gait-mimicry-project
+# Gait-Differences
